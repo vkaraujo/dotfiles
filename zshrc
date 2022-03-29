@@ -44,3 +44,4 @@ export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 source /home/viktor/code/vkaraujo/dotfiles/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
